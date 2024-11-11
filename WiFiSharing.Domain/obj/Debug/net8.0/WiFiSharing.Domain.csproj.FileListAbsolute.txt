@@ -1,0 +1,15 @@
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\bin\Debug\net8.0\WiFiSharing.Domain.deps.json
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\bin\Debug\net8.0\WiFiSharing.Domain.dll
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\bin\Debug\net8.0\WiFiSharing.Domain.pdb
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.AssemblyInfoInputs.cache
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.AssemblyInfo.cs
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.dll
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\refint\WiFiSharing.Domain.dll
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.pdb
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\ref\WiFiSharing.Domain.dll
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\bin\Debug\net8.0\WiFiSharing.Application.dll
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\bin\Debug\net8.0\WiFiSharing.Application.pdb
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiSharing.Domain.csproj.AssemblyReference.cache
+C:\Desarrollo\Net & Azure\WifiSearch\WiFiSharing.Domain\obj\Debug\net8.0\WiFiShar.8A3F4D6C.Up2Date

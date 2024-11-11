@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pAZxLL4DAt8fduTojlReLFgKlezWcfuRbcOPb+PEGjc=",
+  "Source": "WifiSearch.API",
+  "BasePath": "_content/WifiSearch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

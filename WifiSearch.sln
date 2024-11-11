@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiFiSharing.Domain", "WiFiSharing.Domain\WiFiSharing.Domain.csproj", "{B931CDA3-905F-4F20-9D13-6D35C25522EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiFiSharing.Infrastructure", "WiFiSharing.Infrastructure\WiFiSharing.Infrastructure.csproj", "{E8C80662-1FE6-4A9F-9457-21B27C81FC04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiFiSharing.Test", "WiFiSharing.Test\WiFiSharing.Test.csproj", "{FFB7556B-9613-40D0-AB04-EC8CF0BC18DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WifiSearch.API", "WebApplication1\WifiSearch.API.csproj", "{FD66D4D4-7732-4654-9A8A-ECAA3F9DF799}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiFiSharing.Application", "WiFiSharing.Application\WiFiSharing.Application.csproj", "{ACBE6DE2-C580-4DC9-A888-1814D2B1A386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B931CDA3-905F-4F20-9D13-6D35C25522EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B931CDA3-905F-4F20-9D13-6D35C25522EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B931CDA3-905F-4F20-9D13-6D35C25522EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B931CDA3-905F-4F20-9D13-6D35C25522EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C80662-1FE6-4A9F-9457-21B27C81FC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C80662-1FE6-4A9F-9457-21B27C81FC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C80662-1FE6-4A9F-9457-21B27C81FC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C80662-1FE6-4A9F-9457-21B27C81FC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB7556B-9613-40D0-AB04-EC8CF0BC18DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB7556B-9613-40D0-AB04-EC8CF0BC18DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB7556B-9613-40D0-AB04-EC8CF0BC18DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB7556B-9613-40D0-AB04-EC8CF0BC18DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD66D4D4-7732-4654-9A8A-ECAA3F9DF799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD66D4D4-7732-4654-9A8A-ECAA3F9DF799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD66D4D4-7732-4654-9A8A-ECAA3F9DF799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD66D4D4-7732-4654-9A8A-ECAA3F9DF799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBE6DE2-C580-4DC9-A888-1814D2B1A386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBE6DE2-C580-4DC9-A888-1814D2B1A386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBE6DE2-C580-4DC9-A888-1814D2B1A386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBE6DE2-C580-4DC9-A888-1814D2B1A386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81514373-8A57-4023-9B52-3A807D2BAF6F}
+	EndGlobalSection
+EndGlobal

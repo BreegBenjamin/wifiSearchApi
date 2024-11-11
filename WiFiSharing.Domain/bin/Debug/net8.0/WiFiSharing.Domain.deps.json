@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WiFiSharing.Domain/1.0.0": {
+        "dependencies": {
+          "WiFiSharing.Application": "1.0.0"
+        },
+        "runtime": {
+          "WiFiSharing.Domain.dll": {}
+        }
+      },
+      "WiFiSharing.Application/1.0.0": {
+        "runtime": {
+          "WiFiSharing.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiFiSharing.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WiFiSharing.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
